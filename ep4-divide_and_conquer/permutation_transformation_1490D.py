@@ -1,9 +1,11 @@
 def permutation(vetor, left_idx, right_idx, h):
-    if right_idx - left_idx <= 0: return
+    if right_idx - left_idx <= 0:
+        return
     max_value = max(vetor[left_idx:right_idx])
     tree[max_value] = h
     permutation(vetor, left_idx, vetor.index(max_value), h+1)
     permutation(vetor, vetor.index(max_value)+1, right_idx, h+1)
+
 
 t = int(input())
 
