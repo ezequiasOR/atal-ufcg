@@ -16,3 +16,9 @@
 - [A - Chat room](https://codeforces.com/problemset/problem/58/A)
 - [A - Case of the Zeros and Ones](https://codeforces.com/problemset/problem/556/A)
 - [B - Taxi](https://codeforces.com/contest/158/problem/B)
+
+## Lista 4
+
+- [C - Creative Snap](https://codeforces.com/contest/1111/problem/C)
+- [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
+- [D - Equivalent Strings](https://codeforces.com/contest/560/problem/D)
