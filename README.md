@@ -22,3 +22,7 @@
 - [C - Creative Snap](https://codeforces.com/contest/1111/problem/C)
 - [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
 - [D - Equivalent Strings](https://codeforces.com/contest/560/problem/D)
+
+## Lista 6
+
+- [B - Fox And Two Dots](https://codeforces.com/contest/510/problem/B)
