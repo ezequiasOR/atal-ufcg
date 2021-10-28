@@ -22,3 +22,8 @@
 - [C - Creative Snap](https://codeforces.com/contest/1111/problem/C)
 - [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
 - [D - Equivalent Strings](https://codeforces.com/contest/560/problem/D)
+
+## Lista 7
+
+- [B - Biridian Forest](https://codeforces.com/problemset/problem/329/B)
+- [B - Mike and Shortcuts](https://codeforces.com/problemset/problem/689/B)
