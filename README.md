@@ -22,3 +22,9 @@
 - [C - Creative Snap](https://codeforces.com/contest/1111/problem/C)
 - [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
 - [D - Equivalent Strings](https://codeforces.com/contest/560/problem/D)
+
+## Lista 6
+
+- [A - Ice Skating](https://codeforces.com/contest/217/problem/A)
+- [A - Transformation: from A to B](https://codeforces.com/contest/727/problem/A)
+
