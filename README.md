@@ -22,3 +22,9 @@
 - [C - Creative Snap](https://codeforces.com/contest/1111/problem/C)
 - [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
 - [D - Equivalent Strings](https://codeforces.com/contest/560/problem/D)
+
+## Lista 5
+
+- [A - Cut Ribbon](https://codeforces.com/problemset/problem/189/A)
+- [A - Vacations](https://codeforces.com/problemset/problem/698/A)
+- [B - Fence](https://codeforces.com/contest/363/problem/B)
