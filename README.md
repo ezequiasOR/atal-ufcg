@@ -23,6 +23,8 @@
 - [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D)
 - [D - Equivalent Strings](https://codeforces.com/contest/560/problem/D)
 
+## Lista 5
+
 - [A - Cut Ribbon](https://codeforces.com/problemset/problem/189/A)
 - [A - Vacations](https://codeforces.com/problemset/problem/698/A)
 - [B - Fence](https://codeforces.com/contest/363/problem/B)
@@ -32,3 +34,8 @@
 - [A - Ice Skating](https://codeforces.com/contest/217/problem/A)
 - [A - Transformation: from A to B](https://codeforces.com/contest/727/problem/A)
 - [B - Fox And Two Dots](https://codeforces.com/contest/510/problem/B)
+
+## Lista 7
+
+- [B - Biridian Forest](https://codeforces.com/problemset/problem/329/B)
+- [B - Mike and Shortcuts](https://codeforces.com/problemset/problem/689/B)
